@@ -1,6 +1,8 @@
 # Fibonacci-forth
 The Fibonacci sequence using Forth language
 
+I used GNU forth (https://www.gnu.org/software/gforth).
+
 ## Explainations
 
 Forth is a stack based language. All functions are called words.
