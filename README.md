@@ -1,7 +1,7 @@
 # Fibonacci-forth
 The Fibonacci sequence using Forth language
 
-I used GNU forth (https://www.gnu.org/software/gforth).
+I used GNU Forth (https://www.gnu.org/software/gforth).
 
 ## Explanations
 
