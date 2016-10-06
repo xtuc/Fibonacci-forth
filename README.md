@@ -18,3 +18,5 @@ Forth is a stack based language. All functions are called words.
 ```
 
 The `fib` word sums the two last elements and put the result on the top of the stack, which is the Fibonacci sequence.
+
+![result](.github/result.png)
