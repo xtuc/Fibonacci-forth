@@ -21,6 +21,6 @@ The `fib` word sums the two last elements and put the result on the top of the s
 
 ## Result
 
-Firth number is the occurrence of the sequence and the second its result.
+First number is the occurrence of the sequence and the second its result.
 
 ![result](.github/result.png)
