@@ -11,7 +11,7 @@ Forth is a stack based language. All functions are called words.
 * `+` word takes `n` and `n-1` elements from the stack and sum them. The result goes on top of the stack.
 
 ```forth
-: fib ( -- x )
+: fib ( x1 x2 -- x1 x2 x3 )
     2dup
     +
 ;
